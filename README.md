@@ -34,7 +34,9 @@ The analysis suggests that fraud is not evenly distributed across all transactio
 Project Visualizations:
 
 Transaction Types
+![Transaction Types](# of Transactions by Type.png)
 
-![Transaction Types](transaction_types.png)
+Fraud by Transaction
+![Fraud by Transaction Type](Fraud Graph.png)
 
 
