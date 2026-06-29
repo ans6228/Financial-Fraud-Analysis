@@ -21,7 +21,7 @@ Analysis Performed:
 - Explored transaction types
 - Calculated the percentage/amount of fraudulent transactions
 - Identified which transaction types experienced fraud
-
+  
 Key Findings:
 - Transaction volume varied across transaction types.
 - Fraud represented approximately 0.13% (0.1291) of all transactions.
@@ -34,7 +34,6 @@ The analysis suggests that fraud is not evenly distributed across all transactio
 Project Visualizations:
 
 ![Number of Transactions by Type](Transactions_by_Type.png)
-
 
 ![Fraud by Transaction Type](Fraud_Graph.png)
 
