@@ -31,6 +31,10 @@ Key Findings:
 Business Recommendation:
 The analysis suggests that fraud is not evenly distributed across all transaction types. Financial institutions should tailor fraud detection rules based on transaction type rather than applying the same level of monitoring across every transaction. This targeted approach can improve detection accuracy and optimize the use of fraud prevention resources.
 
+Project Visualizations:
 
+Transaction Types
+
+![Transaction Types](transaction_types.png)
 
 
